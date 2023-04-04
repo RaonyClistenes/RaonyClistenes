@@ -5,11 +5,13 @@
 
 ##  Olá 👋
 
-Meu nome é Raony, sou um desenvolvedor full-stack junior com um amor explícito pela tecnologia.
+Olá! Meu nome é Raony e sou um desenvolvedor full-stack junior apaixonado por tecnologia.
 
-Minha jornada na web começou em 2020, quando eu tinha 31 anos e comecei uma pequena pesquisa sobre python. Eu comecei a estudar por conta própria e me apaixonei por programação. Isso me interessou por sites e em 2021 eu pulei de cabeça na área.
+Minha jornada na web começou em 2020, quando comecei a pesquisar sobre Python e me encantei pela programação. Desde então, tenho estudado por conta própria e me dediquei totalmente à área de desenvolvimento de sites.
 
-Avanço rápido para 2022, inicie em novos cursos que me propocionaram mais conhecimento, no final do mesmo ano, comecei o curso de desenvolvimento full-stack e desde então, vejo o quanto posso ir longe e quanto tudo isso me fascina.
+No ano seguinte, em 2021, continuei buscando mais conhecimento e me matriculei em novos cursos para aprimorar minhas habilidades. Foi então que iniciei um curso de desenvolvimento full-stack, e desde então, tenho me fascinado cada vez mais pelo potencial da área.
+
+Estou animado com as oportunidades que estão por vir e estou ansioso para explorar todo o meu potencial como desenvolvedor full-stack. Obrigado por me ouvir!
 
 ##  Minhas Habilidades
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
